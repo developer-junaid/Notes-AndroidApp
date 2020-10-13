@@ -40,7 +40,7 @@
         app:layout_constraintTop_toBottomOf="@+id/etTitle" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button_add_note"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
